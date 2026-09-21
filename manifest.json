@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "Amazon Clear",
 	"version": "0.2",
-	"description": "Filters out inline sponsored ad results on Amazon search pages. The logo is also changed to 'Amazon Clear'. The extension is enabled by default, but you can toggle it on/off by clicking the extension icon.",
+	"description": "Filters out inline sponsored ad results on Amazon search pages. Enabled by default, toggle on/off with the icon.",
 	"icons": {
 		"16": "images/icon16.png",
 		"32": "images/icon32.png",
